@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Daily 213 Hard Python", "Daily 213 Hard Python\Daily 213 Hard Python.pyproj", "{6F8BB94B-7C0C-45E9-A9A5-1EB4E4C97ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8BB94B-7C0C-45E9-A9A5-1EB4E4C97ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8BB94B-7C0C-45E9-A9A5-1EB4E4C97ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
